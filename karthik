@@ -1,0 +1,281 @@
+52.91.16
+52.91.162.66 
+ 
+Services
+  
+Resource Groups
+  
+ 
+bharath
+  
+N. Virginia
+  
+Support
+ 
+
+
+EC2 Dashboard
+Events
+Tags
+Reports
+Limits
+
+INSTANCES
+Instances
+Spot Requests
+Reserved Instances
+Scheduled Instances
+Dedicated Hosts
+
+IMAGES
+AMIs
+Bundle Tasks
+
+ELASTIC BLOCK STORE
+Volumes
+Snapshots
+
+NETWORK & SECURITY
+Security Groups
+Elastic IPs
+Placement Groups
+Key Pairs
+Network Interfaces
+
+LOAD BALANCING
+Load Balancers
+Target Groups
+
+AUTO SCALING
+Launch Configurations
+Auto Scaling Groups
+
+SYSTEMS MANAGER SERVICES
+Run Command
+State Manager
+Automations
+Patch Compliance
+Patch Baselines
+
+SYSTEMS MANAGER SHARED RESOURCES
+Managed Instances
+Activations
+Documents
+Maintenance Windows
+Parameter Store
+Patches
+Launch InstanceConnectActionsRefreshShow/Hide ColumnsHelp
+
+Filter by tags and attributes or search by keyword
+1 to 8 of 8
+  
+Instance:  i-0c804ecf3f10e764a (public)Public IP: 52.91.162.66
+Description
+Status Checks
+Monitoring
+Tags
+Instance ID
+i-0c804ecf3f10e764a
+Public DNS (IPv4)
+-
+Instance state
+running
+IPv4 Public IP
+52.91.162.66
+Instance type
+t2.micro
+IPv6 IPs
+-
+Elastic IPs
+Private DNS
+ip-10-0-1-14.ec2.internal
+Availability zone
+us-east-1d
+Private IPs
+10.0.1.14
+Security groups
+launch-wizard-2. view inbound rules
+Secondary private IPs
+Scheduled events
+No scheduled events
+VPC ID
+vpc-4ee15c37
+AMI ID
+amzn-ami-hvm-2017.03.1.20170617-x86_64-gp2 (ami-643b1972)
+Subnet ID
+subnet-c02a97ec
+Platform
+-
+Network interfaces
+eth0
+IAM role
+-
+Source/dest. check
+True
+Key pair name
+ram
+Owner
+270668874146
+EBS-optimized
+False
+Launch time
+June 24, 2017 at 1:51:58 PM UTC+5:30 (117 hours)
+Root device type
+ebs
+Termination protection
+False
+Root device
+/dev/xvda
+Lifecycle
+normal
+Block devices
+/dev/xvda
+Monitoring
+basic
+Alarm status
+None
+Kernel ID
+-
+RAM disk ID
+-
+Placement group
+-
+Virtualization
+hvm
+Reservation
+r-0a77276368c514269
+AMI launch index
+0
+Tenancy
+default
+Host ID
+-
+Affinity
+-
+State transition reason
+-
+State transition reason message
+-
+Name
+
+Instance ID
+Instance Type
+Availability Zone
+Instance State
+Status Checks
+Alarm Status
+Public DNS (IPv4)
+IPv4 Public IP
+IPv6 IPs
+Key Name
+Monitoring
+Launch Time
+Security Groups
+nat
+i-03fe082a73f9edc78
+t2.micro
+us-east-1d
+ stopped
+None
+-
+-
+ram
+disabled
+June 24, 2017 at 2:19:45 PM UTC+5:30
+launch-wizard-4
+jaya
+i-04aa2f56dbc5f4f0c
+t2.micro
+us-east-1a
+ running
+ 2/2 checks passed
+None
+ec2-54-157-14-192.compute-1.amazonaws.com
+54.157.14.192
+-
+jaya2
+disabled
+June 26, 2017 at 1:25:04 PM UTC+5:30
+launch-wizard-5
+s3
+i-04e057b277335406e
+t2.micro
+us-east-1d
+ stopped
+None
+-
+-
+ram
+disabled
+June 27, 2017 at 8:31:12 PM UTC+5:30
+launch-wizard-7
+ 
+i-062229a5133b74767
+t2.micro
+us-east-1d
+ stopped
+None
+-
+-
+priya
+disabled
+June 24, 2017 at 1:07:35 PM UTC+5:30
+launch-wizard-1
+s3
+i-06684d1ca6ed8c3f7
+t2.micro
+us-east-1d
+ running
+ 2/2 checks passed
+None
+107.22.101.41
+-
+ram
+disabled
+June 27, 2017 at 8:38:52 PM UTC+5:30
+launch-wizard-8
+prvt
+i-077468ad3e590bf9e
+t2.micro
+us-east-1d
+ running
+ 2/2 checks passed
+None
+-
+-
+ram
+disabled
+June 24, 2017 at 2:13:14 PM UTC+5:30
+launch-wizard-3
+NAT
+i-0bb8eecfb7dc176f4
+t2.micro
+us-east-1d
+ running
+ 2/2 checks passed
+None
+52.55.65.111
+-
+ram
+disabled
+June 27, 2017 at 3:51:16 PM UTC+5:30
+launch-wizard-6
+public
+i-0c804ecf3f10e764a
+t2.micro
+us-east-1d
+ running
+ 2/2 checks passed
+None
+52.91.162.66
+-
+ram
+disabled
+June 24, 2017 at 1:51:58 PM UTC+5:30
+launch-wizard-2
+Feedback
+English
+Terms of UsePrivacy Policy© 2008 - 2017, Amazon Internet Services Private Ltd. or its affiliates. All rights reserved.
+
+6
+
